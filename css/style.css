@@ -196,7 +196,8 @@ h2 {
 .headshot {
     display: block;
     width: 15%;
-    height: 40vh;
+    height: auto;
+    max-height: 40vh;
     margin-top: auto;
     margin-bottom: auto;
     margin-left: auto;
@@ -758,6 +759,7 @@ nav.slideclosed {
 
     .headshot {
         width: 15%;
+	height: 40vh;
     }
 
     #photo-caption {

@@ -196,7 +196,7 @@ h2 {
 .headshot {
     display: block;
     width: 35vw;
-    height: auto;
+    height: 40vh;
     margin-top: auto;
     margin-bottom: auto;
     margin-left: auto;
@@ -484,10 +484,6 @@ nav.slideclosed {
     justify-content: center;
     align-items: baseline;
     
-}
-
-.headshot {
-    height: 20vh;
 }
 
 #aboutparagraph {

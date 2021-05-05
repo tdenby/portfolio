@@ -486,6 +486,10 @@ nav.slideclosed {
     
 }
 
+.headshot {
+    height: 20vh;
+}
+
 #aboutparagraph {
     position: relative;
     border-style: solid;
